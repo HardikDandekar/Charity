@@ -1,0 +1,44 @@
+@media (max-width : 600px) {
+    .div1{
+        height: 60%;
+    }
+    .div1 .div1-in h1{
+        font-size: 14vw;
+    }
+    .div1 .div1-in span{
+        font-size: 8vw;
+    }
+    .div2{
+        display: block;
+        height: 105vh;
+    }
+    .div2L{
+        width: 100%;
+
+    }
+    .div2L-in h1{
+        font-size: 8vw;
+        margin-top: 5vh;
+    }
+    .div2L-in p{
+        font-size: 4vw;
+    }
+
+    .div2R{
+        margin-top: 5vh;
+        width: 100%;
+        height: 50%;
+    }
+    .div2R video{
+        height: 45vw;
+    }
+    .div2R button{
+        width: 40vw;
+        height: 5vh;
+    }
+
+    .footer{
+        height: 10%;
+    }
+    
+}
